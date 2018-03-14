@@ -1,6 +1,6 @@
 # An Example GraphQL + Neo4j Web App 
 
-This repository demonstrates how to implement a graph-based web application using Neo4j. It is written in Kotlin and exposes a GraphQL interface. It is based on a blog post from [Excuse The Disruption](http://excusethedisruption.com/a-neo4j-graphql-web-app-written-in-kotlin/)
+This repository demonstrates how to implement a graph-based web application using Neo4j. It is written in Kotlin and exposes a GraphQL interface. It is based on a blog post from [Excuse The Disruption](http://excusethedisruption.com/secret-sauce-web-app-kotlin-neo4j-graphql/)
 
 The application was written using:
 
